@@ -6,7 +6,7 @@
 	},
 	"version": "1.2.0",
 	"main": "server.js",
-	"author": "Rajeev",
+	"author": "Rajeev E",
 	"description": "A project that does something awesome",
 	"scripts": {
 		"start": "node server.js"
